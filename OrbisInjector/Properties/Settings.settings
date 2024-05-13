@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OrbisInjector.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="console_ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.133.7</Value>
+    </Setting>
+    <Setting Name="custom_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Custom\File\Path</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
